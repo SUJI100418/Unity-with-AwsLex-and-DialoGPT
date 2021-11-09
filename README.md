@@ -3,7 +3,7 @@
 
 
 
-#### :rogot: AWS_INTELLIGNET_ASSISTANT_SERVICE_LM 코드
+#### :robot: AWS_INTELLIGNET_ASSISTANT_SERVICE_LM 코드
 
 
     # -*- coding: utf-8 -*-
