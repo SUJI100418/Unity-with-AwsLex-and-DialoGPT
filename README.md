@@ -2,9 +2,7 @@
 (유니티 환경) AWS Lex API 와 언어 모델 DialoGPT를 사용하여 구현한 실시간 대화 시스템 Demo
 
 
-![그림4](https://user-images.githubusercontent.com/46912893/140865459-3b2a0dac-4839-42ba-b0f3-d164addc5a2b.png)
-
-<img src="https://user-images.githubusercontent.com/46912893/140865459-3b2a0dac-4839-42ba-b0f3-d164addc5a2b.png" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/46912893/140865459-3b2a0dac-4839-42ba-b0f3-d164addc5a2b.png" width="700" height="370">
 
 
 ### :robot: ※ AWS_INTELLIGNET_ASSISTANT_SERVICE_LM 코드
