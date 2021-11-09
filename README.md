@@ -16,7 +16,7 @@
     #####
     # 챌리스 애플리케이션 설정
     #####
-    app = Chalice(app_name='Capabilities')
+    app = Chalice(app_name='DialoGPT_BOT')
     app.debug = True
 
     #####
