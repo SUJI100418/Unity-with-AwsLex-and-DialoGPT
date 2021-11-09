@@ -21,7 +21,7 @@ translation_service = translation_service.TranslationService()
 #####
 # RESTful 엔드포인트
 #####
-@app.route('/fox-bot-lm/send-text', methods = ['POST'], cors = True)
+@app.route('/(생략)/send-text', methods = ['POST'], cors = True)
 def send_user_text():
     request_data = json.loads(app.current_request.raw_body)
     raw_text = request_data['text']  # 인풋 json 필드 이름 변경하지 말것
