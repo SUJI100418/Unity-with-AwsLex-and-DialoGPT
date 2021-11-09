@@ -4,6 +4,8 @@
 
 ![그림4](https://user-images.githubusercontent.com/46912893/140865459-3b2a0dac-4839-42ba-b0f3-d164addc5a2b.png)
 
+<img src="https://user-images.githubusercontent.com/46912893/140865459-3b2a0dac-4839-42ba-b0f3-d164addc5a2b.png" style="zoom:50%;" />
+
 
 ### :robot: ※ AWS_INTELLIGNET_ASSISTANT_SERVICE_LM 코드
 
