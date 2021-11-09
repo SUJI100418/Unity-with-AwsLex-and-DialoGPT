@@ -1,7 +1,10 @@
 # Unity-with-AwsLex-and-DialoGPT
 (유니티 환경) AWS Lex API 와 언어 모델 DialoGPT를 사용하여 구현한 실시간 대화 시스템 Demo
 
-## AWS_INTELLIGNET_ASSISTANT_SERVICE_LM 코드
+
+
+### AWS_INTELLIGNET_ASSISTANT_SERVICE_LM 코드
+
 
     # -*- coding: utf-8 -*-
     from chalice import Chalice
@@ -37,3 +40,8 @@
         translated_message = translation_service.translate_text(message, 'en', 'ko')
 
         return translated_message['translatedText'] + ":" + translated_text['translatedText'] + ":" + message
+        
+
+
+---------------
+
