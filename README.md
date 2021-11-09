@@ -47,8 +47,3 @@
 
 ---------------
 
-
-### :robot: ※ 챗봇 버전 NPC 대화 시스템 구현
-
-
-<img src="https://user-images.githubusercontent.com/46912893/140866105-7c8eed4f-c0b7-460c-92e6-b0d672bae7fa.png" width="50%" height="50%">
